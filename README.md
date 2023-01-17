@@ -1,2 +1,2 @@
 # Hello-world
-This is my fisrt code
+This is my first code
